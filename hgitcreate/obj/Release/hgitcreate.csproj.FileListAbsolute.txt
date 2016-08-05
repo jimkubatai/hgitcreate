@@ -1,0 +1,5 @@
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\hgitcreate\hgitcreate\bin\Release\hgitcreate.exe.config
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\hgitcreate\hgitcreate\bin\Release\hgitcreate.exe
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\hgitcreate\hgitcreate\bin\Release\hgitcreate.pdb
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\hgitcreate\hgitcreate\obj\Release\hgitcreate.exe
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\hgitcreate\hgitcreate\obj\Release\hgitcreate.pdb

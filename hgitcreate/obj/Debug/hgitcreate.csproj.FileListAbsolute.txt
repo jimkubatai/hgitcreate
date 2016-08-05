@@ -1,0 +1,6 @@
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\hgitcreate\hgitcreate\bin\Debug\hgitcreate.exe.config
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\hgitcreate\hgitcreate\bin\Debug\hgitcreate.exe
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\hgitcreate\hgitcreate\bin\Debug\hgitcreate.pdb
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\hgitcreate\hgitcreate\obj\Debug\hgitcreate.csprojResolveAssemblyReference.cache
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\hgitcreate\hgitcreate\obj\Debug\hgitcreate.exe
+C:\Users\ChernyakovDV\Desktop\jimtestrepo\hgitcreate\hgitcreate\obj\Debug\hgitcreate.pdb
